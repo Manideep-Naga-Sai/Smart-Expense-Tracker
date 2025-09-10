@@ -29,5 +29,3 @@ Track your expenses, analyze spending patterns, and manage your budget with an i
 - **Vanilla JavaScript (ES6)**  
 - **Chart.js** for interactive charts  
 - **LocalStorage API** for persistent data  
-
-## 📂 Project Structure
